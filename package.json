@@ -1,0 +1,17 @@
+{
+  "name": "segundo-modulo",
+  "version": "1.0.0",
+  "description": "Segundo modulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Juan G Zapata",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
